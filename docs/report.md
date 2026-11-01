@@ -1,8 +1,7 @@
 # Data Integrity Verification System Using SHA-256
 
 **Course:** ECE4113 – Secure Software Development
-**Team members:** [Name 1 – ID], [Name 2 – ID], [Name 3 – ID]  *(placeholders)*
-**Instructor / TA:** [Name]  **Date:** [Date]
+**Team members:** [Hafsa – 241004443], [Mai – 231004675]
 
 ## Abstract
 
