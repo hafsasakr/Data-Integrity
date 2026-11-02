@@ -107,4 +107,4 @@ The project demonstrates, with a real SHA-256 implementation from OpenSSL, how c
 6. Visual Studio Code, *Using GCC with MinGW*. https://code.visualstudio.com/docs/cpp/config-mingw
 7. NIST, *FIPS 198-1: The Keyed-Hash Message Authentication Code (HMAC)*. https://csrc.nist.gov/pubs/fips/198-1/final
 
-*(Verify each link before submission.)*
+
