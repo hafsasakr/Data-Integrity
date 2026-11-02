@@ -177,4 +177,3 @@ External sources (we did not write these):
 7. Visual Studio Code documentation, **Using GCC with MinGW** (compiler setup on Windows). <https://code.visualstudio.com/docs/cpp/config-mingw>
 8. NIST, **FIPS 198-1, The Keyed-Hash Message Authentication Code (HMAC)** – mentioned only as a possible future improvement. <https://csrc.nist.gov/pubs/fips/198-1/final>
 
-> The URLs were written from knowledge of these official sites and were **not** re-verified when this file was generated. Open each link once before submitting; if one has moved, search the title on the site and fix the link.
